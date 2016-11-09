@@ -1,2 +1,3 @@
 <?php
-$deviceId = "YOUR_DEVICE_ID_HERE";
+
+$deviceId = 'YOUR_DEVICE_ID_HERE';
